@@ -1,3 +1,3 @@
-https://zcarpenter1.github.io/sitemap.xml
-User-agent:*(first letter uppercase)
-Allow: / (first letter uppercase)
+Sitemap: https://zcarpenter1.github.io/sitemap.xml
+User-agent: *
+Allow: /
